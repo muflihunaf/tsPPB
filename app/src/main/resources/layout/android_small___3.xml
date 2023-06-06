@@ -1,0 +1,212 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_small___3
+	 *	@date 		Tuesday 06th of June 2023 09:36:03 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_small___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_android_small___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__android_small___3_ek2"
+					android:background="@drawable/_bg__android_small___3_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+
+				<RelativeLayout android:id="@+id/group_11"
+					android:layout_marginTop="107dp"
+					android:layout_marginStart="11dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/rectangle_1"
+						android:src="@drawable/rectangle_1"
+						android:contentDescription="rectangle_1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="336dp"
+						android:layout_height="35dp" />
+
+					<TextView android:id="@+id/cari_wisata_tujuan"
+						android:fontFamily="Inter"
+						android:textStyle="bold"
+						android:textSize="17sp"
+						android:textColor="@color/cari_wisata_tujuan_color"
+						android:layout_marginLeft="16dp"
+						android:layout_marginTop="7dp"
+						android:layout_width="213.04dp"
+						android:layout_height="23.17dp"
+						android:text="@string/cari_wisata_tujuan_string"
+						 />
+
+					<ImageView android:id="@+id/pngwing_1"
+						android:src="@drawable/pngwing_1"
+						android:contentDescription="pngwing_1"
+						 android:layout_marginStart="301dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="31.76dp"
+						android:layout_height="30.14dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_12"
+					android:layout_marginTop="162dp"
+					android:layout_marginStart="22dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/rectangle_4"
+						android:src="@drawable/rectangle_4"
+						android:contentDescription="rectangle_4"
+						 android:layout_marginStart="119dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="73dp"
+						android:layout_height="26dp" />
+
+					<TextView android:id="@+id/sight"
+						android:fontFamily="Inter"
+						android:textStyle="bold"
+						android:textSize="17sp"
+						android:textColor="@color/cari_wisata_tujuan_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="5dp"
+						android:layout_width="66.5dp"
+						android:layout_height="32.5dp"
+						android:text="@string/sight_string"
+						 />
+
+					<TextView android:id="@+id/trip_plan"
+						android:fontFamily="Inter"
+						android:textStyle="bold"
+						android:textSize="17sp"
+						android:textColor="@color/_bg__android_small___3_ek2_color"
+						android:layout_marginLeft="120dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="95.5dp"
+						android:layout_height="31.5dp"
+						android:text="@string/trip_plan_string"
+						 />
+
+					<TextView android:id="@+id/review"
+						android:fontFamily="Inter"
+						android:textStyle="bold"
+						android:textSize="17sp"
+						android:textColor="@color/cari_wisata_tujuan_color"
+						android:layout_marginLeft="243dp"
+						android:layout_marginTop="3dp"
+						android:layout_width="95.5dp"
+						android:layout_height="31.5dp"
+						android:text="@string/review_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/user_1"
+					android:src="@drawable/user_1"
+					android:contentDescription="user_1"
+					 android:layout_marginStart="302dp"
+					android:layout_marginTop="26dp"
+					android:layout_width="34dp"
+					android:layout_height="34dp" />
+
+				<ImageView android:id="@+id/_20230410_100000_2"
+					android:src="@drawable/_20230410_100000_2"
+					android:contentDescription="_20230410_100000_2"
+					 android:layout_marginStart="11dp"
+					android:layout_marginTop="-40dp"
+					android:layout_width="195dp"
+					android:layout_height="160dp" />
+
+				<ImageView android:id="@+id/_1681017729812_2"
+					android:src="@drawable/_1681017729812_2"
+					android:contentDescription="_1681017729812_2"
+					 android:layout_marginStart="62dp"
+					android:layout_marginTop="290dp"
+					android:layout_width="250dp"
+					android:layout_height="155dp" />
+
+				<TextView android:id="@+id/bukit_arosbaya"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:textSize="25sp"
+					android:textColor="@color/_bg__android_small___3_ek2_color"
+					android:layout_marginLeft="74dp"
+					android:layout_marginTop="393dp"
+					android:layout_width="171.5dp"
+					android:layout_height="69.22dp"
+					android:text="@string/bukit_arosbaya_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/group_13"
+					android:layout_marginTop="571dp"
+					android:layout_marginStart="62dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/_1681017683474_2"
+						android:src="@drawable/_1681017683474_2"
+						android:contentDescription="_1681017683474_2"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="250dp"
+						android:layout_height="155dp" />
+
+					<TextView android:id="@+id/bukit_jedih"
+						android:fontFamily="Inter"
+						android:textStyle="bold"
+						android:textSize="25sp"
+						android:textColor="@color/_bg__android_small___3_ek2_color"
+						android:layout_marginLeft="22dp"
+						android:layout_marginTop="103dp"
+						android:layout_width="123.36dp"
+						android:layout_height="69.22dp"
+						android:text="@string/bukit_jedih_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/airplane_paper_plane_clip_art_paper_plane_51cc22441b47d3ce0ebd2b87d50d3141_1"
+					android:src="@drawable/airplane_paper_plane_clip_art_paper_plane_51cc22441b47d3ce0ebd2b87d50d3141_1"
+					android:contentDescription="airplane_paper_plane_clip_art_paper_plane_51cc22441b47d3ce0ebd2b87d50d3141_1"
+					 android:layout_marginStart="120dp"
+					android:layout_marginTop="464dp"
+					android:layout_width="112.54dp"
+					android:layout_height="84.94dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

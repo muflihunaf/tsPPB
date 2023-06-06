@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_small___3 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="cari_wisata_tujuan_string">cari wisata tujuan</string>
+	<string name="sight_string">Sight</string>
+	<string name="trip_plan_string">Trip plan</string>
+	<string name="review_string">Review</string>
+	<string name="bukit_arosbaya_string">bukit arosbaya</string>
+	<string name="bukit_jedih_string">bukit jedih</string>
+</resources>
